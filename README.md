@@ -1,1 +1,1 @@
-# N-queens
+Snake Game
